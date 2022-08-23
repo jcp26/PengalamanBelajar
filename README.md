@@ -20,6 +20,7 @@ Belajar Kelas Belajar Dasar Pemrograman Web (Progres 99%)
 
 **23 Agustus 2022**   
 Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
-  * Mendapatkan hasil akhir dari submission akhir kelas Belajar Dasar Pemrograman Web.
+  * Mendapatkan hasil akhir dari submission akhir kelas Belajar Dasar Pemrograman Web.  
+
 Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
   * Belajar dasar JavaScript yang meliputi pengertian JS, sejarah, membedakan statement dan expression, komentar, variabel, dan tipe data.
