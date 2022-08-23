@@ -17,3 +17,9 @@ Belajar Kelas Belajar Dasar Pemrograman Web (Progres 99%)
   * Belajar tentang dasar JavaScript didalamnya meliputi syntax JS, statement, comment, variabel, tipe data, arrays dan objek, operator, DOM, dll.
   * Belajar tentang web storage mulai dari pengertiannya, tipe, dan cara penggunaanya.
   * Membuat submission akhir kelas Belajar Dasar Pemrograman Web.
+
+**23 Agustus 2022**   
+Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
+  * Mendapatkan hasil akhir dari submission akhir kelas Belajar Dasar Pemrograman Web.
+Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
+  * Belajar dasar JavaScript yang meliputi pengertian JS, sejarah, membedakan statement dan expression, komentar, variabel, dan tipe data.
