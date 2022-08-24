@@ -22,5 +22,12 @@ Belajar Kelas Belajar Dasar Pemrograman Web (Progres 99%)
 Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
   * Mendapatkan hasil akhir dari submission akhir kelas Belajar Dasar Pemrograman Web.  
 
-Belajar Kelas Belajar Dasar Pemrograman Web (Progres 100%)
+Belajar Membuat Front-End Web untuk Pemula (progres 17%)
   * Belajar dasar JavaScript yang meliputi pengertian JS, sejarah, membedakan statement dan expression, komentar, variabel, dan tipe data.
+
+**24 Agustus 2022**   
+Belajar Membuat Front-End Web untuk Pemula (progres 53%)
+  * Belajar dasar JavaScript yang meliputi operator, if/else statement, switch case, looping, object, array, function.
+  * Belajar Browser Object Model (BOM) di dalamnya terdiri dari alert, prompt, dan console.
+  * Belajar Document Object Model (DOM) didalamnya terdiri dari DOM Tree, membuat elemen HTML, mengubah konten HTML, Menambahkan elemen HTML.
+  
