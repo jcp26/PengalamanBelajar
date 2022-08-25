@@ -31,3 +31,10 @@ Belajar Membuat Front-End Web untuk Pemula (progres 53%)
   * Belajar Browser Object Model (BOM) di dalamnya terdiri dari alert, prompt, dan console.
   * Belajar Document Object Model (DOM) didalamnya terdiri dari DOM Tree, membuat elemen HTML, mengubah konten HTML, Menambahkan elemen HTML.
   
+**25 Agustus 2022**   
+Belajar Membuat Front-End Web untuk Pemula (progres 79%)
+  * Belajar berbagai macam event handler seperti onload, onclick, dan inline.
+  * Belajar menambahkan dan membangkitkan custom event.
+  * Belajar event bubbling dan capturing.
+  * Belajar event di dalam form seperti input event onInput, onFocus, onBlur, onChange, onCopy, dan onPaste.
+  * Membuat aplikasi todo apps.
