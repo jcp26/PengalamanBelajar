@@ -38,3 +38,8 @@ Belajar Membuat Front-End Web untuk Pemula (progres 79%)
   * Belajar event bubbling dan capturing.
   * Belajar event di dalam form seperti input event onInput, onFocus, onBlur, onChange, onCopy, dan onPaste.
   * Membuat aplikasi todo apps.
+
+**26 Agustus 2022**   
+  * Mengikuti kelas ILT Soft Skill 1.
+  * Mengerjakan Quiz ILT Soft Skill 1.
+  * Belajar tentang personal productivity dan manajemen waktu.
