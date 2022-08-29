@@ -43,3 +43,11 @@ Belajar Membuat Front-End Web untuk Pemula (progres 79%)
   * Mengikuti kelas ILT Soft Skill 1.
   * Mengerjakan Quiz ILT Soft Skill 1.
   * Belajar tentang personal productivity dan manajemen waktu.
+
+**29 Agustus 2022**   
+Belajar Membuat Front-End Web untuk Pemula (progres 98%) 
+  * Belajar pengertian dan fungsi web storage.
+  * Belajar macam-macam web stortage mulai dari local storage dan session storage.
+  * Belajar cara menambahkan data, mengakses data, memodifikasi data, menghapus data, dan menyimpan data pada web storage.
+  * Mengimplementasikan web storage pada web todoapps yang sebelumnya sudah dibuat.
+  * Mengerjakan kuis web storage dan ujian akhir kelas.
