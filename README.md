@@ -51,3 +51,8 @@ Belajar Membuat Front-End Web untuk Pemula (progres 98%)
   * Belajar cara menambahkan data, mengakses data, memodifikasi data, menghapus data, dan menyimpan data pada web storage.
   * Mengimplementasikan web storage pada web todoapps yang sebelumnya sudah dibuat.
   * Mengerjakan kuis web storage dan ujian akhir kelas.
+  
+**30 Agustus 2022**   
+  * Mengikuti konsultasi mingguan pertama dengan mentor kelas yang sudah ditentukan.
+  * Saling berkenalan dengan teman sekelas yang ada.
+  * Sharing pengalaman dari sesi soft skill pertama yang sebelumnya sudah diikuti.
