@@ -69,3 +69,8 @@ Belajar Membuat Front-End Web untuk Pemula (progres 98%)
   * Mengerjakan quiz kelas ILT Tech 1.
   * Mengimplementasikan desain untuk submission kelas Belajar Membuat Front-End Web untuk Pemula yang sebelumnya sudah dibuat dalam figma (diemplementasikan ke dalam
     bentuk source code HTML dan CSS).
+    
+**2 September 2022**  
+Belajar Membuat Front-End Web untuk Pemula (progres 100%)
+* Melanjutkan pembuatan submission akhir kelas yang awalnya baru membuat tampilan dengan menggunakan HTML dan CSS, sekarang dikembangkan dengan menambahkan JavaScript   untuk manipulasi konten.
+* Mengumpulkan submission akhir kelas untuk dinilai dan direview.
