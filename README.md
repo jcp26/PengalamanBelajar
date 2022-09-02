@@ -56,3 +56,6 @@ Belajar Membuat Front-End Web untuk Pemula (progres 98%)
   * Mengikuti konsultasi mingguan pertama dengan mentor kelas yang sudah ditentukan.
   * Saling berkenalan dengan teman sekelas yang ada.
   * Sharing pengalaman dari sesi soft skill pertama yang sebelumnya sudah diikuti.
+
+**31 Agustus 2022**   
+  * Membuat desain untuk submission akhir kelas Belajar Membuat Front-End Web untuk Pemula (desain dibuat dengan menggunakan tools figma).
