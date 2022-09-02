@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Repository Ini Berisi Pengalaman Belajar di Dicoding
 
-
+## Agustus
 **18 Agustus 2022**   
 Belajar Kelas Belajar Dasar Pemrograman Web (Progres 27%)
   * Belajar apa itu website, server, client, anatomi website, dan tools yang diperlukan untuk membangun website.
@@ -59,3 +59,13 @@ Belajar Membuat Front-End Web untuk Pemula (progres 98%)
 
 **31 Agustus 2022**   
   * Membuat desain untuk submission akhir kelas Belajar Membuat Front-End Web untuk Pemula (desain dibuat dengan menggunakan tools figma).
+  
+  ---
+  <br>
+  
+## September
+**1 September 2022**   
+  * Mengikuti google meet kelas ILT Tech 1 yang materinya tentang dasar pemrograman web.
+  * Mengerjakan quiz kelas ILT Tech 1.
+  * Mengimplementasikan desain untuk submission kelas Belajar Membuat Front-End Web untuk Pemula yang sebelumnya sudah dibuat dalam figma (diemplementasikan ke dalam
+    bentuk source code HTML dan CSS).
