@@ -74,3 +74,19 @@ Belajar Membuat Front-End Web untuk Pemula (progres 98%)
 Belajar Membuat Front-End Web untuk Pemula (progres 100%)
 * Melanjutkan pembuatan submission akhir kelas yang awalnya baru membuat tampilan dengan menggunakan HTML dan CSS, sekarang dikembangkan dengan menambahkan JavaScript   untuk manipulasi konten.
 * Mengumpulkan submission akhir kelas untuk dinilai dan direview.
+
+**5 September 2022**  
+Belajar Fundamental Front-End Web Development (progres 8%)
+* Belajar tentang deklarasi variabel.
+* Belajar tentang template literals.
+
+**6 September 2022**  
+Belajar Fundamental Front-End Web Development (progres 8%)
+* Belajar tentang destructuring object dan array.
+* Konsultasi mingguan dengan mentor dan teman-teman kelas.
+
+**7 September 2022**  
+Belajar Fundamental Front-End Web Development (progres 12%)
+* Belajar tentang spreading operator dan rest parameter.
+* Belajar tentang function (regular function dan arrow function).
+* Belajar tentang parameter dalam function.
